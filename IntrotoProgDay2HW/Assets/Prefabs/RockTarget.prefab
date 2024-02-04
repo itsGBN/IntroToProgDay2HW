@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 46918435284075595}
   - component: {fileID: 1467392477882025853}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: RockTarget
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
